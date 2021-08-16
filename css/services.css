@@ -1,0 +1,104 @@
+
+#services{
+    background-image: url(../images/bike6.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#ps {
+    font-size: 20px;
+    ;
+    font-family: cursive;
+}
+
+h1 {
+    font-weight: 400px;
+}
+
+.service1 {
+    border: 2px solid black;
+}
+
+.fa-wrench {
+    font-size: 70px;
+    color: brown;
+}
+
+.fa-bath {
+    text-align: center;
+    font-size: 70px;
+    color: brown;
+}
+
+.fa-galactic-republic {
+    font-size: 70px;
+    color: brown;
+}
+
+.fa-hand-spock {
+    font-size: 70px;
+    color: brown;
+}
+
+.fa-gas-pump {
+    font-size: 70px;
+    color: brown;
+}
+
+.fa-motorcycle {
+    font-size: 70px;
+    color: brown;
+}
+
+.card-deck {
+    text-align: center;
+    color: brown;
+}
+
+.fa-tools {
+    font-size: 70px;
+}
+
+.fa-users-cog {
+    font-size: 50px;
+    color: brown;
+}
+
+.fa-money-bill-wave {
+    font-size: 50px;
+    color: brown;
+}
+
+.fa-ribbon {
+    font-size: 50px;
+    color: brown;
+
+}
+
+.fa-clock {
+    font-size: 50px;
+    color: brown;
+}
+
+.call {
+    background: url("../images/img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50vh;
+}
+
+h4 {
+    color: #00838f;
+}
+
+#p {
+    font-size: 30px;
+    padding-top: 50px;
+}
+
+.card-body:hover {
+    background-color:black;
+
+}

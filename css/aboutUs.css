@@ -1,0 +1,16 @@
+.fas {
+    font-size: xx-large;
+    color: brown;
+}
+
+.fas:hover {
+    color: darkred;
+    border: brown;
+
+}
+
+hr {
+    color: brown;
+}
+
+

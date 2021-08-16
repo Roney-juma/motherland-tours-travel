@@ -1,0 +1,21 @@
+#jump{
+    background-image: url("../images/rep1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: beige;
+}
+.opnhrs{
+    box-sizing: border-box;
+    box-shadow: rgba(190, 110, 110, 0.966);               
+}
+form{
+    background-color: beige;
+    box-sizing: border-box;
+    box-shadow: 0 10px 10px rgba(105, 67, 72, 0.966);
+}
+.contact{
+    font-size: 30px;
+    background-color: beige;
+
+}
